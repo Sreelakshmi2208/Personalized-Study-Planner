@@ -1,4 +1,4 @@
-# Study Planner Pro (Hackathon-Ready)
+# Study Planner
 
 A polished **Personalised Study Planner** to wow judges:
 - AI-like auto scheduling (smart heuristic)
